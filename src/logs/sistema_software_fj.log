@@ -1,0 +1,9 @@
+2026-05-12 22:51:05,886 - INFO - EXITO: Cliente: Juan Perez (ID: 1001) - Servicio: Sala de Conferencias - Costo: 360
+2026-05-12 22:51:05,886 - ERROR - ERROR DE NEGOCIO: La duración de la sala debe ser mayor a 0.
+2026-05-12 22:51:05,886 - INFO - EXITO: Cliente: Juan Perez (ID: 1001) - Servicio: MacBook Air - Costo: 275
+2026-05-12 22:51:05,886 - ERROR - ERROR DE NEGOCIO: El alquiler de equipos no puede exceder los 30 días.
+2026-05-12 22:51:05,886 - INFO - EXITO: Cliente: Juan Perez (ID: 1001) - Servicio: Asesoría IA - Costo: 714.0
+2026-05-12 22:51:05,886 - ERROR - ERROR DE NEGOCIO: Las asesorías requieren mínimo 1 hora.
+2026-05-12 22:51:05,886 - INFO - EXITO: Cliente: Juan Perez (ID: 1001) - Servicio: MacBook Air - Costo: 500
+2026-05-12 22:51:05,886 - INFO - EXITO: Cliente: Juan Perez (ID: 1001) - Servicio: Sala de Conferencias - Costo: 120
+2026-05-12 22:51:05,886 - INFO - EXITO: Cliente: Juan Perez (ID: 1001) - Servicio: Asesoría IA - Costo: 1428.0
